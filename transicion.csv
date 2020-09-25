@@ -1,37 +1,44 @@
 ﻿ID_MINSAL;COMUNA;Paso;ESTADO
-1;Aysén;4;Apertura Inicial
 109;Algarrobo;3;Preparación
+888;Alhué;3;Preparación
+889;Alto Biobío;3;Preparación
+890;Alto del Carmen;3;Preparación
 302;Alto Hospicio;1;Cuarentena
 347;Ancud;3;Preparación
 277;Andacollo;3;Preparación
 216;Angol;4;Apertura Inicial
-2101;Antofagasta;1;Cuarentena
+2101;Antofagasta;2;Transición desde el lunes 28 de septiembre a las 05:00 am
 7;Antuco;3;Preparación
 303;Arauco;3;Preparación
 198;Arica;1;Cuarentena
-2101;Buín;1;Cuarentena
+1;Aysén;4;Apertura Inicial
+2101;Buín;2;Transición desde el lunes 28 de septiembre a las 05:00 am
 285;Bulnes;3;Preparación
 103;Cabildo;3;Preparación
 180;Cabo de Hornos;3;Preparación
 56;Cabrero;3;Preparación
-319;Calama;1;Cuarentena
+319;Calama;2;Transición
 208;Calbuco;3;Preparación
 10;Caldera;3;Preparación
-265;Calera de Tango;2;Transición
+891;Calera;1;Cuarentena
+265;Calera de Tango;3;Preparación desde el lunes 28 de septiembre a las 05:00 am
 14;Calle Larga;3;Preparación
 99;Camarones;3;Preparación
+892;Camiña;3;Preparación
 67;Canela;3;Preparación
 295;Cañete;3;Preparación
 296;Carahue;4;Apertura Inicial
 31;Cartagena;3;Preparación
 201;Casablanca;3;Preparación
+893;Castro;3;Preparación
 46;Catemu;3;Preparación
 40;Cauquenes;3;Preparación
 270;Cerrillos;2;Transición
-63;Cerro Navia;1;Cuarentena
+63;Cerro Navia;2;Transición desde el lunes 28 de septiembre a las 05:00 am
 166;Chaitén;3;Preparación
 333;Chanco;3;Preparación
 324;Chañaral;3;Preparación
+894;Chepica;3;Preparación
 167;Chiguayante;1;Cuarentena
 11;Chile Chico;4;Apertura Inicial
 132;Chillán;1;Cuarentena
@@ -46,41 +53,42 @@
 262;Codegua;3;Preparación
 289;Coelemu;3;Preparación
 110;Coihueco;3;Preparación
+896;Coinco;3;Preparación
 170;Colbún;3;Preparación
 114;Colchane;3;Preparación
 161;Colina;2;Transición
 297;Collipulli;4;Apertura Inicial
 76;Coltauco;3;Preparación
 220;Combarbalá;3;Preparación
-5309;CONCÓN;3;Preparación
 113;Concepción;1;Cuarentena
-29;Conchalí;1;Cuarentena
+29;Conchalí;2;Transición desde el lunes 28 de septiembre a las 05:00 am
+5309;CONCÓN;3;Preparación
 75;Constitución;3;Preparación
 340;Contulmo;3;Preparación
 5309;Copiapó;1;Cuarentena
-4103;Coquimbo;1;Cuarentena
+4103;Coquimbo;2;Transición desde el lunes 28 de septiembre a las 05:00 am
 157;Coronel;1;Cuarentena
 202;Corral;4;Apertura Inicial
-11401;Coyhaique;4;Apertura Inicial
+11401;Coyhaique;1;Cuarentena desde el viernes 25 de septiembre a las 23:00 hrs
 13;Cunco;4;Apertura Inicial
 21;Curacautín;4;Apertura Inicial
 194;Curacaví;2;Transición
 244;Curaco de Vélez;3;Preparación
-284;Curanilahue;3;Preparación
+284;Curanilahue;1;Cuarentena
 230;Curarrehue;4;Apertura Inicial
 225;Curepto;3;Preparación
 83;Curicó;2;Transición
 276;Dalcahue;3;Preparación
 197;Diego de Almagro;3;Preparación
 305;Doñihue;3;Preparación
-155;El Bosque;1;Cuarentena
+155;El Bosque;2;Transición
 140;El Carmen;3;Preparación
 279;El Monte;2;Transición
 12;El Quisco;3;Preparación
 112;El Tabo;3;Preparación
 338;Empedrado;3;Preparación
-185;Ercilla;4;Apertura Inicial
-89;Estación Central;2;Transición
+185;Ercilla;1;Cuarentena desde el viernes 25 de septiembre a las 23:00 pm
+89;Estación Central;3;Preparación desde el lunes 28 de septiembre a las 05:00 am
 45;Florida;3;Preparación
 47;Freire;4;Apertura Inicial
 158;Freirina;3;Preparación
@@ -102,45 +110,46 @@
 144;Huasco;3;Preparación
 346;Huechuraba;2;Transición
 192;Illapel;3;Preparación
-3;Independencia;1;Cuarentena
+3;Independencia;2;Transición
 18;Iquique;1;Cuarentena
-334;Isla de Maipo;2;Transición
+334;Isla de Maipo;3;Preparación desde el lunes 28 de septiembre a las 05:00 am
+899;Isla de Pascua;3;Preparación
 30;Juan Fernández;4;Apertura Inicial
 2;La Cisterna;2;Transición
-87;La Cruz;1;Cuarentena
+87;La Cruz;2;Transición desde el lunes 28 de septiembre a las 05:00 am
 41;La Estrella;3;Preparación
 321;La Florida;2;Transición
 50;La Granja;2;Transición
 96;La Higuera;3;Preparación
 49;La Ligua;3;Preparación
-139;La Pintana;1;Cuarentena
+139;La Pintana;2;Transición desde el lunes 28 de septiembre a las 05:00 am
 93;La Reina;3;Preparación
-97;La Serena;1;Cuarentena
+97;La Serena;2;Transición desde el lunes 28 de septiembre a las 05:00 am
 59;La Unión;4;Apertura Inicial
 327;Lago Ranco;4;Apertura Inicial
 92;Lago Verde;4;Apertura Inicial
 19;Laguna Blanca;3;Preparación
 251;Laja;3;Preparación
-254;Lampa;2;Transición
-316;Lanco;4;Apertura Inicial
+254;Lampa;3;Preparación desde el lunes 28 de septiembre a las 05:00 am
+316;Lanco;2;Transición desde el viernes 25 de septiembre a las 23:00 hrs
 210;Las Cabras;3;Preparación
 78;Las Condes;3;Preparación
 249;Lautaro;4;Apertura Inicial
-116;Lebu;3;Preparación
-231;Licantén;3;Preparación
+116;Lebu;1;Cuarentena
+231;Licantén;1;Zona urbana en cuarentena
 199;Limache;3;Preparación
-145;Linares;1;Cuarentena
+145;Linares;2;Transición desde el lunes 28 de septiembre a las 05:00 am
 53;Litueche;3;Preparación
-159;LLAY-LLAY;3;Preparación
 136;Llanquihue;3;Preparación
-267;Lo Barnechea;2;Transición
-65;Lo Espejo;1;Cuarentena
-332;Lo Prado;1;Cuarentena
+159;LLAY LLAY;3;Preparación
+267;Lo Barnechea;3;Preparación desde el lunes 28 de septiembre a las 05:00 am
+65;Lo Espejo;2;Transición desde el lunes 28 de septiembre a las 05:00 am
+332;Lo Prado;2;Transición desde el lunes 28 de septiembre a las 05:00 am
 337;Lolol;3;Preparación
 325;Loncoche;4;Apertura Inicial
 129;Longaví;1;Zona urbana en cuarentena 
-240;Lonquimay;4;Apertura Inicial
-162;Los Álamos;3;Preparación
+240;Lonquimay;1;Cuarentena desde el viernes 25 de septiembre a las 23:00 pm
+162;Los Álamos;1;Cuarentena
 226;Los Andes;3;Preparación
 200;Los Ángeles;3;Preparación
 66;Los Lagos;4;Apertura Inicial
@@ -154,12 +163,13 @@
 323;Máfil;4;Apertura Inicial
 246;Maipú;2;Transición
 94;Malloa;3;Preparación
+901;Marchihue;3;Preparación
 2103;Maria Elena;3;Preparación
 14602;Maria Pinto;2;Transición
 90;Mariquina;4;Apertura Inicial
 245;Maule;3;Preparación
-154;Maullín;3;Preparación
-263;Mejillones;1;Cuarentena
+154;Maullín;1;Cuarentena
+263;Mejillones;2;Transición desde el lunes 28 de septiembre a las 05:00 am
 8;Melipeuco;4;Apertura Inicial
 304;Melipilla;2;Transición
 88;Molina;1;Cuarentena
@@ -178,35 +188,36 @@
 52;Ñuñoa;3;Preparación
 234;O'Higgins;4;Apertura Inicial
 91;Olivar;3;Preparación
+903;Ollagüe;3;Preparación
 120;Olmué;3;Preparación
 300;Osorno;3;Preparación
 54;Ovalle;1;Cuarentena
-255;Padre Hurtado;2;Transición
+255;Padre Hurtado;3;Preparación desde el lunes 28 de septiembre a las 05:00 am
 25;Padre Las Casas;4;Apertura Inicial
 4106;Paihuano;3;Preparación
 24;Paillaco;4;Apertura Inicial
 252;Paine;1;Cuarentena
 104;Palena;3;Preparación
 282;Palmilla;3;Preparación
-130;Panguipulli;4;Apertura Inicial
+130;Panguipulli;2;Transición desde el viernes 25 de septiembre a las 23:00 hrs
 250;Panquehue;3;Preparación
 62;Papudo;3;Preparación
 57;Paredones;3;Preparación
 133;Parral;3;Preparación
-164;Pedro Aguirre Cerda;2;Transición
+164;Pedro Aguirre Cerda;3;Preparación desde el lunes 28 de septiembre a las 05:00 am
 336;Pelarco;3;Preparación
 152;Pelluhue;3;Preparación
 320;Pemuco;3;Preparación
 184;Pencahue;3;Preparación
 85;Penco;1;Cuarentena
 14504;Peñaflor;2;Transición
-153;Peñalolén;2;Transición
+153;Peñalolén;3;Preparación desde el lunes 28 de septiembre a las 05:00 am
 191;Peralillo;3;Preparación
 322;Perquenco;4;Apertura Inicial
 131;Petorca;3;Preparación
 233;Peumo;3;Preparación
 55;Pica;3;Preparación
-115;Pichidegua;3;Preparación
+115;Pichidegua;1;Cuarentena
 4;Pichilemu;3;Preparación
 118;Pinto;3;Preparación
 137;Pirque;3;Preparación
@@ -214,13 +225,13 @@
 101;Placilla;3;Preparación
 237;Portezuelo;3;Preparación
 127;Porvenir;1;Cuarentena
-171;Pozo Almonte;1;Cuarentena
+171;Pozo Almonte;2;Transición desde el lunes 28 de septiembre a las 05:00 am
 292;Primavera;3;Preparación
 5;Providencia;3;Preparación
 72;Puchuncaví;3;Preparación
 36;Pucón;4;Apertura Inicial
-242;Pudahuel;1;Cuarentena
-82;Puente Alto;1;Cuarentena
+242;Pudahuel;2;Transición
+82;Puente Alto;2;Transición desde el lunes 28 de septiembre a las 05:00 am
 100;Puerto Montt;1;Cuarentena
 261;Puerto Octay;3;Preparación
 258;Puerto Varas;3;Preparación
@@ -237,14 +248,14 @@
 272;Quellón;3;Preparación
 273;Quemchi;3;Preparación
 278;Quilaco;3;Preparación
-215;Quilicura;2;Transición
+215;Quilicura;3;Preparación desde el lunes 28 de septiembre a las 05:00 am
 79;Quilleco;3;Preparación
 206;Quillón;3;Preparación
-182;Quillota;1;Cuarentena
+182;Quillota;2;Transición
 48;Quilpué;3;Preparación
 38;Quinchao;3;Preparación
 275;Quinta de Tilcoco;3;Preparación
-123;Quinta Normal;1;Cuarentena
+123;Quinta Normal;2;Transición desde el lunes 28 de septiembre a las 05:00 am
 81;Quintero;3;Preparación
 35;Quirihue;3;Preparación
 6101;Rancagua;2;Transición
@@ -274,7 +285,7 @@
 176;San Esteban;3;Preparación
 151;San Fabián;3;Preparación
 69;San Felipe;3;Preparación
-178;San Fernando;3;Preparación
+178;San Fernando;2;Transición
 60;San Gregorio;3;Preparación
 124;San Ignacio;3;Preparación
 111;San Javier;3;Preparación
@@ -294,18 +305,19 @@
 211;Santa Bárbara;3;Preparación
 117;Santa Cruz;1;Cuarentena
 205;Santa Juana;3;Preparación
-183;Santiago;2;Transición
+905;Santa Maria;3;Preparación
+183;Santiago;3;Preparación desde el lunes 28 de septiembre a las 05:00 am
 196;Santo Domingo;3;Preparación
 64;Sierra Gorda;3;Preparación
-70;Talagante;2;Transición
-73;Talca;3;Preparación
+70;Talagante;3;Preparación desde el lunes 28 de septiembre a las 05:00 am
+73;Talca;2;Zona Urbana en transición
 43;Talcahuano;1;Cuarentena
 299;Taltal;3;Preparación
 86;Temuco;4;Apertura Inicial
 189;Teno;3;Preparación
-9;Teodoro Schmidt;4;Apertura Inicial
+9;Teodoro Schmidt;1;Cuarentena desde el viernes 25 de septiembre a las 23:00 pm
 227;Tierra Amarilla;1;Cuarentena
-142;TIL-TIL;2;Transición
+142;TIL TIL;3;Preparación desde el lunes 28 de septiembre a las 05:00 am
 306;Timaukel;3;Preparación
 15;Tirúa;3;Preparación
 80;Tocopilla;2;Transición
