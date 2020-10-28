@@ -1,6 +1,6 @@
 ﻿ID_MINSAL;COMUNA;Paso;ESTADO
 109;Algarrobo;3;Preparación
-888;Alhué;3;Preparación
+888;Alhué;4;Apertura Inicial
 889;Alto Biobío;3;Preparación
 890;Alto del Carmen;3;Preparación
 302;Alto Hospicio;2;Transición
@@ -9,24 +9,24 @@
 216;Angol;2;Transición
 2101;Antofagasta;2;Transición
 7;Antuco;3;Preparación
-303;Arauco;2;Transición desde el sábado 17 de octubre a las 05:00 hrs.
+303;Arauco;2;Transición
 198;Arica;1;Cuarentena
 1;Aysén;4;Apertura Inicial
 2101;Buín;2;Transición
 285;Bulnes;3;Preparación
 103;Cabildo;3;Preparación
 180;Cabo de Hornos;3;Preparación
-56;Cabrero;2;Transición desde el sábado 17 de octubre a las 05:00 hrs.
-319;Calama;3;Preparación desde el lunes 19 de octubre a las 05:00 hrs.
-208;Calbuco;3;Preparación
+56;Cabrero;2;Transición
+319;Calama;3;Preparación
+208;Calbuco;2;Transición
 10;Caldera;3;Preparación
-891;Calera;2;Transición
-265;Calera de Tango;3;Preparación
+891;Calera;3;Preparación
+265;Calera de Tango;4;Apertura Inicial
 14;Calle Larga;3;Preparación
 99;Camarones;3;Preparación
 892;Camiña;3;Preparación
 67;Canela;3;Preparación
-295;Cañete;1;Cuarentena desde el sábado 17 de octubre a las 05:00 hrs.
+295;Cañete;1;Cuarentena
 296;Carahue;1;Cuarentena
 31;Cartagena;3;Preparación
 201;Casablanca;3;Preparación
@@ -34,45 +34,45 @@
 46;Catemu;3;Preparación
 40;Cauquenes;3;Preparación
 270;Cerrillos;3;Preparación
-63;Cerro Navia;2;Transición
+63;Cerro Navia;3;Preparación
 166;Chaitén;3;Preparación
 333;Chanco;3;Preparación
 324;Chañaral;3;Preparación
 894;Chepica;3;Preparación
-167;Chiguayante;2;Transición desde el lunes 19 de octubre a las 05:00 hrs.
+167;Chiguayante;2;Transición
 11;Chile Chico;4;Apertura Inicial
 132;Chillán;2;Transición
 344;Chillán Viejo;2;Transición
 287;Chimbarongo;3;Preparación
 168;Cholchol;2;Transición
-342;Chonchi;1;Cuarentena desde el sábado 17 de octubre a las 05:00 hrs.
+342;Chonchi;1;Cuarentena
 125;Cisnes;4;Apertura Inicial
 348;Cobquecura;3;Preparación
 271;Cochamó;3;Preparación
 175;Cochrane;4;Apertura Inicial
 262;Codegua;3;Preparación
 289;Coelemu;3;Preparación
-110;Coihueco;1;Cuarentena
+110;Coihueco;2;Transición
 896;Coinco;3;Preparación
 170;Colbún;3;Preparación
 114;Colchane;3;Preparación
-161;Colina;4;Apertura inicial desde el lunes 19 de octubre a las 05:00 hrs.
+161;Colina;4;Apertura inicial
 297;Collipulli;2;Transición
 76;Coltauco;3;Preparación
 220;Combarbalá;3;Preparación
-113;Concepción;2;Transición desde el lunes 19 de octubre a las 05:00 hrs.
+113;Concepción;2;Transición
 29;Conchalí;2;Transición
 5309;CONCÓN;3;Preparación
 75;Constitución;3;Preparación
 340;Contulmo;3;Preparación
 5309;Copiapó;2;Transición
-4103;Coquimbo;3;Preparación desde el lunes 19 de octubre a las 05:00 hrs.
+4103;Coquimbo;3;Preparación
 157;Coronel;1;Cuarentena
 202;Corral;2;Transición
 11401;Coyhaique;1;Cuarentena
 13;Cunco;2;Transición
 21;Curacautín;4;Apertura Inicial
-194;Curacaví;4;Apertura inicial desde el lunes 19 de octubre a las 05:00 hrs.
+194;Curacaví;4;Apertura inicial
 244;Curaco de Vélez;3;Preparación
 284;Curanilahue;1;Cuarentena
 230;Curarrehue;4;Apertura Inicial
@@ -83,20 +83,20 @@
 305;Doñihue;3;Preparación
 155;El Bosque;3;Preparación
 140;El Carmen;3;Preparación
-279;El Monte;3;Preparación desde el lunes 19 de octubre a las 05:00 hrs.
+279;El Monte;3;Preparación
 12;El Quisco;3;Preparación
 112;El Tabo;3;Preparación
 338;Empedrado;3;Preparación
-185;Ercilla;1;Cuarentena
+185;Ercilla;2;Transición
 89;Estación Central;3;Preparación
 45;Florida;3;Preparación
-47;Freire;2;Transición desde el sábado 17 de octubre a las 05:00 hrs.
+47;Freire;2;Transición
 158;Freirina;3;Preparación
 221;Fresia;1;Cuarentena
 328;Frutillar;1;Cuarentena
 193;Futaleufú;3;Preparación
 229;Futrono;4;Apertura Inicial
-17;Galvarino;1;Cuarentena desde el sábado 17 de octubre a las 05:00 hrs.
+17;Galvarino;1;Cuarentena
 268;General Lagos;3;Preparación
 269;Gorbea;4;Apertura Inicial
 281;Graneros;2;Transición
@@ -104,7 +104,7 @@
 293;Hijuelas;3;Preparación
 238;Hualaihué;3;Preparación
 107;Hualañé;3;Preparación
-309;Hualpén;2;Transición desde el lunes 19 de octubre a las 05:00 hrs.
+309;Hualpén;2;Transición
 51;Hualqui;2;Transición
 308;Huara;3;Preparación
 144;Huasco;3;Preparación
@@ -112,67 +112,67 @@
 192;Illapel;3;Preparación
 3;Independencia;2;Transición
 18;Iquique;2;Transición
-334;Isla de Maipo;3;Preparación
+334;Isla de Maipo;2;Transición
 899;Isla de Pascua;3;Preparación
 30;Juan Fernández;4;Apertura Inicial
 2;La Cisterna;2;Transición
-87;La Cruz;2;Transición
+87;La Cruz;3;Preparación
 41;La Estrella;3;Preparación
-321;La Florida;2;Transición
+321;La Florida;3;Preparación
 50;La Granja;2;Transición
 96;La Higuera;3;Preparación
 49;La Ligua;3;Preparación
 139;La Pintana;2;Transición
 93;La Reina;3;Preparación
-97;La Serena;3;Preparación desde el lunes 19 de octubre a las 05:00 hrs.
-59;La Unión;2;Transición desde el sábado 17 de octubre a las 05:00 hrs.
+97;La Serena;3;Preparación
+59;La Unión;2;Transición
 327;Lago Ranco;4;Apertura Inicial
 92;Lago Verde;4;Apertura Inicial
 19;Laguna Blanca;3;Preparación
-251;Laja;2;Transición desde el sábado 17 de octubre a las 05:00 hrs.
-254;Lampa;3;Preparación
+251;Laja;2;Transición
+254;Lampa;4;Apertura Inicial
 316;Lanco;2;Transición
 210;Las Cabras;3;Preparación
 78;Las Condes;3;Preparación
 249;Lautaro;2;Transición
 116;Lebu;1;Cuarentena
-231;Licantén;2;Transición
+231;Licantén;3;Preparación
 199;Limache;3;Preparación
 145;Linares;3;Preparación
 53;Litueche;3;Preparación
 136;Llanquihue;3;Preparación
 159;LLAY LLAY;3;Preparación
 267;Lo Barnechea;3;Preparación
-65;Lo Espejo;3;Preparación desde el lunes 19 de octubre a las 05:00 hrs.
+65;Lo Espejo;3;Preparación
 332;Lo Prado;2;Transición
 337;Lolol;3;Preparación
-325;Loncoche;1;Cuarentena
-129;Longaví;2;Transición desde el lunes 19 de octubre a las 05:00 hrs.
+325;Loncoche;2;Transición
+129;Longaví;2;Transición
 240;Lonquimay;2;Transición
 162;Los Álamos;1;Cuarentena
 226;Los Andes;3;Preparación
 200;Los Ángeles;3;Preparación
-66;Los Lagos;2;Transición desde el sábado 17 de octubre a las 05:00 hrs.
+66;Los Lagos;2;Transición
 204;Los Muermos;1;Cuarentena
 247;Los Sauces;4;Apertura Inicial
 264;Los Vilos;3;Preparación
 218;Lota;1;Cuarentena
 195;Lumaco;4;Apertura Inicial
 223;Machalí;2;Transición
-106;Macul;2;Transición
+106;Macul;3;Preparación
 323;Máfil;4;Apertura Inicial
-246;Maipú;3;Preparación desde el lunes 19 de octubre a las 05:00 hrs.
+246;Maipú;3;Preparación
 94;Malloa;3;Preparación
 901;Marchihue;3;Preparación
 2103;Maria Elena;3;Preparación
-14602;Maria Pinto;4;Apertura inicial desde el lunes 19 de octubre a las 05:00 hrs.
-90;Mariquina;2;Transición desde el sábado 17 de octubre a las 05:00 hrs.
+14602;Maria Pinto;4;Apertura inicial
+90;Mariquina;2;Transición
 245;Maule;2;Transición
 154;Maullín;2;Transición
 263;Mejillones;2;Transición
 8;Melipeuco;4;Apertura Inicial
-304;Melipilla;3;Preparación desde el lunes 19 de octubre a las 05:00 hrs.
-88;Molina;2;Transición desde el lunes 19 de octubre a las 05:00 hrs.
+304;Melipilla;3;Preparación
+88;Molina;2;Transición
 147;Monte Patria;3;Preparación
 6104;Mostazal;3;Preparación
 26;Mulchén;3;Preparación
@@ -191,15 +191,15 @@
 903;Ollagüe;3;Preparación
 120;Olmué;3;Preparación
 300;Osorno;1;Cuarentena
-54;Ovalle;3;Preparación desde el lunes 19 de octubre a las 05:00 hrs.
-255;Padre Hurtado;3;Preparación
+54;Ovalle;3;Preparación
+255;Padre Hurtado;2;Transición
 25;Padre Las Casas;2;Transición
 4106;Paihuano;3;Preparación
 24;Paillaco;2;Transición
-252;Paine;3;Preparación desde el lunes 19 de octubre a las 05:00 hrs.
+252;Paine;3;Preparación
 104;Palena;3;Preparación
 282;Palmilla;3;Preparación
-130;Panguipulli;3;Preparación desde el lunes 19 de octubre a las 05:00 hrs.
+130;Panguipulli;3;Preparación
 250;Panquehue;3;Preparación
 62;Papudo;3;Preparación
 57;Paredones;3;Preparación
@@ -209,18 +209,18 @@
 152;Pelluhue;3;Preparación
 320;Pemuco;3;Preparación
 184;Pencahue;3;Preparación
-85;Penco;2;Transición desde el lunes 19 de octubre a las 05:00 hrs.
-14504;Peñaflor;2;Transición
-153;Peñalolén;3;Preparación
+85;Penco;2;Transición
+14504;Peñaflor;3;Preparación
+153;Peñalolén;4;Apertura Inicial
 191;Peralillo;3;Preparación
-322;Perquenco;2;Transición desde el sábado 17 de octubre a las 05:00 hrs.
+322;Perquenco;2;Transición
 131;Petorca;3;Preparación
 233;Peumo;3;Preparación
 55;Pica;3;Preparación
 115;Pichidegua;1;Cuarentena
 4;Pichilemu;3;Preparación
 118;Pinto;3;Preparación
-137;Pirque;4;Apertura inicial desde el lunes 19 de octubre a las 05:00 hrs.
+137;Pirque;4;Apertura inicial
 169;Pitrufquén;4;Apertura Inicial
 101;Placilla;3;Preparación
 237;Portezuelo;3;Preparación
@@ -230,7 +230,7 @@
 5;Providencia;3;Preparación
 72;Puchuncaví;3;Preparación
 36;Pucón;2;Transición
-242;Pudahuel;2;Transición
+242;Pudahuel;3;Preparación
 82;Puente Alto;2;Transición
 100;Puerto Montt;1;Cuarentena
 261;Puerto Octay;3;Preparación
@@ -240,7 +240,7 @@
 27;Punta Arenas;1;Cuarentena
 290;Puqueldón;3;Preparación
 274;Purén;4;Apertura Inicial
-217;Purranque;1;Cuarentena desde el sábado 17 de octubre a las 05:00 hrs.
+217;Purranque;1;Cuarentena
 260;Putaendo;3;Preparación
 61;Putre;3;Preparación
 294;Puyehue;3;Preparación
@@ -262,8 +262,8 @@
 172;Ránquil;3;Preparación
 105;Rauco;3;Preparación
 187;Recoleta;3;Preparación
-143;Renaico;1;Cuarentena desde el sábado 17 de octubre a las 05:00 hrs.
-329;Renca;3;Preparación desde el lunes 19 de octubre a las 05:00 hrs.
+143;Renaico;1;Cuarentena
+329;Renca;3;Preparación
 219;Rengo;2;Transición
 77;Requínoa;3;Preparación
 121;Retiro;3;Preparación
@@ -278,10 +278,10 @@
 314;Saavedra;1;Cuarentena
 141;Sagrada Familia;3;Preparación
 236;Salamanca;3;Preparación
-148;San Antonio;3;Preparación desde el lunes 19 de octubre a las 05:00 hrs.
-32;San Bernardo;3;Preparación desde el lunes 19 de octubre a las 05:00 hrs.
+148;San Antonio;3;Preparación
+32;San Bernardo;3;Preparación
 42;San Carlos;3;Preparación
-98;San Clemente;2;Transición
+98;San Clemente;3;Preparación
 176;San Esteban;3;Preparación
 151;San Fabián;3;Preparación
 69;San Felipe;3;Preparación
@@ -289,21 +289,21 @@
 60;San Gregorio;3;Preparación
 124;San Ignacio;3;Preparación
 111;San Javier;3;Preparación
-315;San Joaquín;3;Preparación desde el lunes 19 de octubre a las 05:00 hrs.
+315;San Joaquín;3;Preparación
 181;San José de Maipo;3;Preparación
 156;San Juan de la Costa;1;Cuarentena
 335;San Miguel;2;Transición
 102;San Nicolás;3;Preparación
 307;San Pablo;3;Preparación
-95;San Pedro;4;Apertura inicial desde el lunes 19 de octubre a las 05:00 hrs.
+95;San Pedro;4;Apertura inicial
 257;San Pedro de Atacama;3;Preparación
-108;San Pedro de la Paz;2;Transición desde el lunes 19 de octubre a las 05:00 hrs.
+108;San Pedro de la Paz;2;Transición
 301;San Rafael;3;Preparación
 343;San Ramón;2;Transición
-341;San Rosendo;2;Transición desde el sábado 17 de octubre a las 05:00 hrs.
+341;San Rosendo;2;Transición
 326;San Vicente;2;Transición
 211;Santa Bárbara;3;Preparación
-117;Santa Cruz;3;Preparación desde el lunes 19 de octubre a las 05:00 hrs.
+117;Santa Cruz;3;Preparación
 205;Santa Juana;3;Preparación
 905;Santa Maria;3;Preparación
 183;Santiago;3;Preparación
@@ -311,13 +311,13 @@
 64;Sierra Gorda;3;Preparación
 70;Talagante;3;Preparación
 73;Talca;2;Zona Urbana en transición
-43;Talcahuano;2;Transición desde el lunes 19 de octubre a las 05:00 hrs.
+43;Talcahuano;2;Transición
 299;Taltal;3;Preparación
 86;Temuco;2;Transición
-189;Teno;2;Transición
-9;Teodoro Schmidt;1;Cuarentena
+189;Teno;3;Preparación
+9;Teodoro Schmidt;2;Transición
 227;Tierra Amarilla;2;Transición
-142;TIL TIL;4;Apertura inicial desde el lunes 19 de octubre a las 05:00 hrs.
+142;TIL TIL;4;Apertura inicial
 306;Timaukel;3;Preparación
 15;Tirúa;3;Preparación
 80;Tocopilla;3;Preparación
@@ -329,18 +329,18 @@
 313;Trehuaco;3;Preparación
 311;Tucapel;3;Preparación
 222;Valdivia;2;Transición
-3301;Vallenar;1;Cuarentena
+3301;Vallenar;2;Transición
 209;VALPARAÍSO;2;Transición
 243;Vichuquén;3;Preparación
 16;Victoria;2;Transición
 34;Vicuña;3;Preparación
-146;Vilcún;2;Transición desde el sábado 17 de octubre a las 05:00 hrs.
+146;Vilcún;2;Transición
 224;Villa Alegre;3;Preparación
 23;Villa Alemana;3;Preparación
 228;Villarrica;1;Cuarentena
 163;Viña del Mar;2;Transición
-39;Vitacura;3;Preparación
+39;Vitacura;4;Apertura Inicial
 241;Yerbas Buenas;3;Preparación
-37;Yumbel;2;Transición desde el sábado 17 de octubre a las 05:00 hrs.
+37;Yumbel;2;Transición
 160;Yungay;3;Preparación
 207;Zapallar;3;Preparación
