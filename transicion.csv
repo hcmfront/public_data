@@ -16,7 +16,7 @@
 285;Bulnes;3;Preparación
 103;Cabildo;3;Preparación
 180;Cabo de Hornos;3;Preparación
-56;Cabrero;3;Preparación desde el jueves 26 de noviembre a las 5:00 hrs.
+56;Cabrero;3;Preparación
 319;Calama;3;Preparación
 208;Calbuco;1;Cuarentena
 10;Caldera;3;Preparación
@@ -27,7 +27,7 @@
 892;Camiña;3;Preparación
 67;Canela;4;Apertura Inicial
 295;Cañete;1;Cuarentena
-296;Carahue;2;Transición
+296;Carahue;3;Preparación
 31;Cartagena;3;Preparación
 201;Casablanca;3;Preparación
 893;Castro;2;Transición
@@ -67,15 +67,15 @@
 340;Contulmo;3;Preparación
 5309;Copiapó;3;Preparación
 4103;Coquimbo;4;Apertura Inicial
-157;Coronel;1;Cuarentena
+157;Coronel;2;Transición
 202;Corral;3;Preparación
-11401;Coyhaique;2;Transición
-13;Cunco;2;Transición
-21;Curacautín;2;Transición
+11401;Coyhaique;3;Preparación
+13;Cunco;3;Preparación
+21;Curacautín;3;Preparación
 194;Curacaví;4;Apertura inicial
-244;Curaco de Vélez;2;Transición desde el jueves 26 de noviembre a las 5:00 hrs.
-284;Curanilahue;2;Transición 
-230;Curarrehue;4;Apertura Inicial
+244;Curaco de Vélez;2;Transición
+284;Curanilahue;1;Cuarentena desde el 2 de diciembre a las 5:00 hrs.
+230;Curarrehue;2;Cuarentena desde el 2 de diciembre a las 5:00 hrs.
 225;Curepto;3;Preparación
 83;Curicó;3;Preparación
 276;Dalcahue;2;Transición
@@ -89,7 +89,7 @@
 338;Empedrado;3;Preparación
 185;Ercilla;3;Preparación
 89;Estación Central;4;Apertura inicial
-45;Florida;3;Preparación
+45;Florida;2;Transición desde el 2 de diciembre a las 5:00 hrs.
 47;Freire;1;Cuarentena
 158;Freirina;3;Preparación
 221;Fresia;3;Preparación
@@ -98,11 +98,11 @@
 229;Futrono;1;Cuarentena
 17;Galvarino;2;Transición
 268;General Lagos;3;Preparación
-269;Gorbea;2;Transición
+269;Gorbea;3;Preparación
 281;Graneros;3;Preparación
 232;Guaitecas;4;Apertura Inicial
 293;Hijuelas;3;Preparación
-238;Hualaihué;1;Cuarentena
+238;Hualaihué;2;Transición
 107;Hualañé;3;Preparación
 309;Hualpén;2;Transición
 51;Hualqui;2;Transición
@@ -112,21 +112,21 @@
 192;Illapel;4;Apertura Inicial
 3;Independencia;4;Apertura Inicial
 18;Iquique;2;Transición
-334;Isla de Maipo;3;Preparación desde el jueves 26 de noviembre a las 5:00 hrs.
+334;Isla de Maipo;3;Preparación
 899;Isla de Pascua;3;Preparación
 30;Juan Fernández;4;Apertura Inicial
 2;La Cisterna;3;Preparación
 87;La Cruz;3;Preparación
 41;La Estrella;3;Preparación
 321;La Florida;3;Preparación
-50;La Granja;3;Preparación
+50;La Granja;2;Transición
 96;La Higuera;4;Apertura Inicial
 49;La Ligua;3;Preparación
 139;La Pintana;3;Preparación
 93;La Reina;4;Apertura inicial
 97;La Serena;4;Apertura Inicial
-59;La Unión;1;Cuarentena
-327;Lago Ranco;1;Cuarentena
+59;La Unión;2;Transición desde el 2 de diciembre a las 5:00 hrs.
+327;Lago Ranco;2;Transición
 92;Lago Verde;4;Apertura Inicial
 19;Laguna Blanca;3;Preparación
 251;Laja;3;Preparación
@@ -143,7 +143,7 @@
 136;Llanquihue;3;Preparación
 159;LLAY LLAY;3;Preparación
 267;Lo Barnechea;3;Preparación
-65;Lo Espejo;3;Preparación
+65;Lo Espejo;2;Transición
 332;Lo Prado;3;Preparación
 337;Lolol;3;Preparación
 325;Loncoche;3;Preparación
@@ -156,7 +156,7 @@
 204;Los Muermos;1;Cuarentena
 247;Los Sauces;2;Transición
 264;Los Vilos;4;Apertura Inicial
-218;Lota;1;Cuarentena
+218;Lota;2;Transición
 195;Lumaco;4;Apertura Inicial
 223;Machalí;3;Preparación
 106;Macul;4;Apertura inicial
@@ -168,10 +168,10 @@
 14602;Maria Pinto;4;Apertura inicial
 90;Mariquina;3;Preparación
 245;Maule;3;Preparación
-154;Maullín;2;Transición
+154;Maullín;1;Cuarentena
 263;Mejillones;3;Preparación
-8;Melipeuco;2;Transición
-304;Melipilla;4;Apertura Inicial
+8;Melipeuco;3;Preparación
+304;Melipilla;3;Preparación
 88;Molina;3;Preparación
 147;Monte Patria;4;Apertura Inicial
 6104;Mostazal;3;Preparación
@@ -180,26 +180,26 @@
 212;Nancagua;3;Preparación
 126;Natales;1;Cuarentena
 291;Navidad;3;Preparación
-138;Negrete;3;Preparación
+138;Negrete;2;Transición desde el 2 de diciembre a las 5:00 hrs.
 213;Ninhue;3;Preparación
 5502;Nogales;3;Preparación
-174;Nueva Imperial;2;Transición
+174;Nueva Imperial;3;Preparación
 177;Ñiquén;3;Preparación
 52;Ñuñoa;4;Apertura Inicial
 234;O'Higgins;4;Apertura Inicial
 91;Olivar;3;Preparación
 903;Ollagüe;3;Preparación
 120;Olmué;3;Preparación
-300;Osorno;1;Cuarentena
+300;Osorno;2;Transición
 54;Ovalle;4;Apertura Inicial
-255;Padre Hurtado;3;Preparación
+255;Padre Hurtado;4;Apertura Inicial desde el 2 de diciembre a las 5:00 hrs.
 25;Padre Las Casas;1;Cuarentena
 4106;Paihuano;4;Apertura Inicial
-24;Paillaco;3;Preparación
+24;Paillaco;2;Transición
 252;Paine;4;Apertura Inicial
 104;Palena;3;Preparación
 282;Palmilla;3;Preparación
-130;Panguipulli;2;Transición desde el jueves 26 de noviembre a las 5:00 hrs.
+130;Panguipulli;2;Transición
 250;Panquehue;3;Preparación
 62;Papudo;3;Preparación
 57;Paredones;3;Preparación
@@ -209,7 +209,7 @@
 152;Pelluhue;3;Preparación
 320;Pemuco;3;Preparación
 184;Pencahue;3;Preparación
-85;Penco;2;Transición
+85;Penco;3;Preparación
 14504;Peñaflor;4;Apertura inicial
 153;Peñalolén;4;Apertura Inicial
 191;Peralillo;3;Preparación
@@ -230,7 +230,7 @@
 5;Providencia;4;Apertura inicial
 72;Puchuncaví;3;Preparación
 36;Pucón;3;Preparación
-242;Pudahuel;4;Apertura inicial
+242;Pudahuel;3;Preparación
 82;Puente Alto;3;Preparación
 100;Puerto Montt;1;Cuarentena
 261;Puerto Octay;3;Preparación
@@ -253,7 +253,7 @@
 206;Quillón;2;Transición
 182;Quillota;3;Preparación
 48;Quilpué;3;Preparación
-38;Quinchao;2;Transición desde el jueves 26 de noviembre a las 5:00 hrs.
+38;Quinchao;2;Transición
 275;Quinta de Tilcoco;3;Preparación
 123;Quinta Normal;3;Preparación
 81;Quintero;3;Preparación
@@ -275,7 +275,7 @@
 28;Río Negro;2;Transición
 288;Río Verde;3;Preparación
 259;Romeral;3;Preparación
-314;Saavedra;2;Transición
+314;Saavedra;3;Preparación
 141;Sagrada Familia;3;Preparación
 236;Salamanca;4;Apertura Inicial
 148;San Antonio;3;Preparación
@@ -289,7 +289,7 @@
 60;San Gregorio;3;Preparación
 124;San Ignacio;3;Preparación
 111;San Javier;3;Preparación
-315;San Joaquín;3;Preparación
+315;San Joaquín;2;Transición
 181;San José de Maipo;4;Apertura inicial
 156;San Juan de la Costa;2;Transición
 335;San Miguel;3;Preparación
@@ -325,22 +325,22 @@
 8205;Tome;2;Transición
 6;Torres del Paine;3;Preparación
 239;Tortel;4;Apertura Inicial
-190;Traiguén;1;Cuarentena
+190;Traiguén;2;Transición
 313;Trehuaco;3;Preparación
 311;Tucapel;3;Preparación
 222;Valdivia;1;Cuarentena
 3301;Vallenar;3;Preparación
 209;VALPARAÍSO;3;Preparación
 243;Vichuquén;3;Preparación
-16;Victoria;2;Transición
+16;Victoria;3;Preparación
 34;Vicuña;4;Apertura Inicial
 146;Vilcún;2;Transición
 224;Villa Alegre;3;Preparación
 23;Villa Alemana;3;Preparación
-228;Villarrica;2;Transición
+228;Villarrica;3;Preparación
 163;Viña del Mar;3;Preparación
 39;Vitacura;4;Apertura Inicial
 241;Yerbas Buenas;3;Preparación
-37;Yumbel;2;Transición
+37;Yumbel;3;Preparación
 160;Yungay;3;Preparación
 207;Zapallar;3;Preparación
