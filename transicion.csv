@@ -7,14 +7,14 @@
 347;Ancud;1;Cuarentena
 277;Andacollo;1;Cuarentena
 216;Angol;3;Preparación
-2101;Antofagasta;1;Cuarentena
+2101;Antofagasta;2;Transición desde el lunes 25 de enero a las 5:00 hrs.
 7;Antuco;1;Cuarentena
 303;Arauco;3;Preparación
 198;Arica;1;Cuarentena
 1;Aysén;2;Transición
 2101;Buín;2;Transición
 285;Bulnes;3;Preparación
-103;Cabildo;3;Preparación
+103;Cabildo;2;Transición desde el sábado 23 de enero a las 5:00 hrs.
 180;Cabo de Hornos;2;Transición
 56;Cabrero;2;Transición
 319;Calama;2;Transición
@@ -37,28 +37,28 @@
 63;Cerro Navia;2;Transición
 166;Chaitén;4;Apertura Inicial 
 333;Chanco;3;Preparación
-324;Chañaral;2;Transición desde el jueves 21 de enero a las 5:00 hrs.
+324;Chañaral;2;Transición
 894;Chepica;2;Transición
 167;Chiguayante;1;Cuarentena
 11;Chile Chico;2;Transición
-132;Chillán;2;Transición
-344;Chillán Viejo;2;Transición
+132;Chillán;1;Cuarentena desde el sábado 23 de enero a las 5:00 hrs.
+344;Chillán Viejo;1;Cuarentena desde el sábado 23 de enero a las 5:00 hrs.
 287;Chimbarongo;3;Preparación
-168;Cholchol;2;Transición 
+168;Cholchol;1;Cuarentena desde el sábado 23 de enero a las 5:00 hrs.
 342;Chonchi;2;Transición
 125;Cisnes;4;Apertura Inicial
 348;Cobquecura;3;Preparación
 271;Cochamó;2;Transición
-175;Cochrane;2;Transición
+175;Cochrane;3;Preparación desde el lunes 25 de enero a las 5:00 hrs.
 262;Codegua;3;Preparación
 289;Coelemu;3;Preparación
 110;Coihueco;3;Preparación
 896;Coinco;3;Preparación
-170;Colbún;3;Preparación
+170;Colbún;2;Transición desde el sábado 23 de enero a las 5:00 hrs.
 114;Colchane;3;Preparación
 161;Colina;3;Preparación
 297;Collipulli;3;Preparación
-76;Coltauco;3;Preparación
+76;Coltauco;2;Transición desde el sábado 23 de enero a las 5:00 hrs.
 220;Combarbalá;3;Preparación
 113;Concepción;2;Transición 
 29;Conchalí;1;Cuarentena
@@ -68,8 +68,8 @@
 5309;Copiapó;2;Transición
 4103;Coquimbo;3;Preparación
 157;Coronel;1;Cuarentena
-202;Corral;3;Preparación
-11401;Coyhaique;3;Preparación
+202;Corral;2;Transición desde el sábado 23 de enero a las 5:00 hrs.
+11401;Coyhaique;2;Transición desde el sábado 23 de enero a las 5:00 hrs.
 13;Cunco;3;Preparación
 21;Curacautín;2;Transición
 194;Curacaví;2;Transición
@@ -92,7 +92,7 @@
 45;Florida;2;Transición
 47;Freire;2;Transición 
 158;Freirina;3;Preparación
-221;Fresia;1;Cuarentena desde el jueves 21 de enero a las 5:00 hrs.
+221;Fresia;1;Cuarentena
 328;Frutillar;2;Transición
 193;Futaleufú;4;Apertura Inicial .
 229;Futrono;2;Transición
@@ -106,7 +106,7 @@
 107;Hualañé;3;Preparación
 309;Hualpén;1;Cuarentena
 51;Hualqui;1;Cuarentena
-308;Huara;3;Preparación
+308;Huara;2;Transición desde el sábado 23 de enero a las 5:00 hrs.
 144;Huasco;3;Preparación
 346;Huechuraba;3;Preparación
 192;Illapel;3;Preparación
@@ -121,7 +121,7 @@
 321;La Florida;2;Transición
 50;La Granja;2;Transición
 96;La Higuera;3;Preparación
-49;La Ligua;2;Transición
+49;La Ligua;3;Preparación desde el lunes 25 de enero a las 5:00 hrs.
 139;La Pintana;2;Transición
 93;La Reina;2;Transición
 97;La Serena;3;Preparación
@@ -129,35 +129,35 @@
 327;Lago Ranco;2;Transición
 92;Lago Verde;4;Apertura Inicial
 19;Laguna Blanca;3;Preparación
-251;Laja;1;Cuarentena desde el jueves 21 de enero a las 5:00 hrs.
+251;Laja;1;Cuarentena
 254;Lampa;3;Preparación
-316;Lanco;3;Preparación
+316;Lanco;2;Transición desde el sábado 23 de enero a las 5:00 hrs.
 210;Las Cabras;2;Transición
 78;Las Condes;2;Transición
 249;Lautaro;2;Transición
-116;Lebu;2;Transición
+116;Lebu;1;Cuarentena desde el sábado 23 de enero a las 5:00 hrs.
 231;Licantén;3;Preparación
 199;Limache;3;Preparación
 145;Linares;2;Transición
 53;Litueche;3;Preparación
 136;Llanquihue;3;Preparación
-159;LLAY LLAY;1;Cuarentena desde el jueves 21 de enero a las 5:00 hrs.
+159;LLAY LLAY;1;Cuarentena
 267;Lo Barnechea;2;Transición
 65;Lo Espejo;2;Transición
 332;Lo Prado;2;Transición
 337;Lolol;3;Preparación
 325;Loncoche;2;Transición
 129;Longaví;3;Preparación
-240;Lonquimay;3;Preparación desde el jueves 21 de enero a las 5:00 hrs.
-162;Los Álamos;2;Transición
+240;Lonquimay;3;Preparación
+162;Los Álamos;1;Cuarentena desde el sábado 23 de enero a las 5:00 hrs.
 226;Los Andes;3;Preparación
-200;Los Ángeles;1;Cuarentena
+200;Los Ángeles;2;Transición desde el lunes 25 de enero a las 5:00 hrs.
 66;Los Lagos;1;Cuarentena
 204;Los Muermos;2;Transición
 247;Los Sauces;3;Preparación
 264;Los Vilos;3;Preparación
 218;Lota;1;Cuarentena
-195;Lumaco;2;Transición 
+195;Lumaco;1;Cuarentena desde el sábado 23 de enero a las 5:00 hrs.
 223;Machalí;3;Preparación
 106;Macul;2;Transición
 323;Máfil;2;Transición
@@ -166,24 +166,24 @@
 901;Marchihue;3;Preparación
 2103;Maria Elena;3;Preparación
 14602;Maria Pinto;3;Preparación
-90;Mariquina;2;Transición desde el jueves 21 de enero a las 5:00 hrs.
+90;Mariquina;2;Transición
 245;Maule;1;Cuarentena
-154;Maullín;1;Cuarentena desde el jueves 21 de enero a las 5:00 hrs.
+154;Maullín;1;Cuarentena
 263;Mejillones;1;Cuarentena
 8;Melipeuco;3;Preparación
 304;Melipilla;3;Preparación
 88;Molina;1;Cuarentena
 147;Monte Patria;3;Preparación
 6104;Mostazal;3;Preparación
-26;Mulchén;1;Cuarentena desde el jueves 21 de enero a las 5:00 hrs.
-214;Nacimiento;1;Cuarentena desde el jueves 21 de enero a las 5:00 hrs.
+26;Mulchén;1;Cuarentena
+214;Nacimiento;1;Cuarentena
 212;Nancagua;3;Preparación
 126;Natales;2;Transición
 291;Navidad;3;Preparación
-138;Negrete;1;Cuarentena desde el jueves 21 de enero a las 5:00 hrs.
+138;Negrete;1;Cuarentena
 213;Ninhue;3;Preparación
 5502;Nogales;3;Preparación
-174;Nueva Imperial;2;Transición 
+174;Nueva Imperial;1;Cuarentena desde el sábado 23 de enero a las 5:00 hrs.
 177;Ñiquén;3;Preparación
 52;Ñuñoa;2;Transición
 234;O'Higgins;4;Apertura Inicial
@@ -196,7 +196,7 @@
 25;Padre Las Casas;2;Transición 
 4106;Paihuano;3;Preparación
 24;Paillaco;1;Cuarentena
-252;Paine;3;Preparación
+252;Paine;2;Transición desde el sábado 23 de enero a las 5:00 hrs.
 104;Palena;4;Apertura Inicial 
 282;Palmilla;3;Preparación
 130;Panguipulli;3;Preparación 
@@ -205,7 +205,7 @@
 57;Paredones;3;Preparación
 133;Parral;3;Preparación
 164;Pedro Aguirre Cerda;2;Transición
-336;Pelarco;3;Preparación
+336;Pelarco;2;Transición desde el sábado 23 de enero a las 5:00 hrs.
 152;Pelluhue;3;Preparación
 320;Pemuco;3;Preparación
 184;Pencahue;3;Preparación
@@ -225,15 +225,15 @@
 101;Placilla;3;Preparación
 237;Portezuelo;3;Preparación
 127;Porvenir;2;Transición
-171;Pozo Almonte;2;Transición
+171;Pozo Almonte;1;Cuarentena desde el sábado 23 de enero a las 5:00 hrs.
 292;Primavera;3;Preparación
 5;Providencia;2;Transición
 72;Puchuncaví;3;Preparación
-36;Pucón;2;Transición desde el jueves 21 de enero a las 5:00 hrs.
+36;Pucón;2;Transición
 242;Pudahuel;2;Transición
 82;Puente Alto;2;Transición
 100;Puerto Montt;1;Cuarentena
-261;Puerto Octay;1;Cuarentena desde el jueves 21 de enero a las 5:00 hrs.
+261;Puerto Octay;1;Cuarentena
 258;Puerto Varas;1;Cuarentena
 266;Pumanque;3;Preparación
 135;Punitaqui;3;Preparación
@@ -243,7 +243,7 @@
 217;Purranque;2;Transición
 260;Putaendo;3;Preparación
 61;Putre;3;Preparación
-294;Puyehue;2;Transición
+294;Puyehue;1;Cuarentena desde el sábado 23 de enero a las 5:00 hrs.
 256;Queilén;2;Transición 
 272;Quellón;1;Cuarentena
 273;Quemchi;2;Transición 
@@ -262,9 +262,9 @@
 172;Ránquil;3;Preparación
 105;Rauco;3;Preparación
 187;Recoleta;2;Transición
-143;Renaico;1;Cuarentena
+143;Renaico;2;Transición desde el lunes 25 de enero a las 5:00 hrs.
 329;Renca;2;Transición
-219;Rengo;3;Preparación
+219;Rengo;2;Transición desde el sábado 23 de enero a las 5:00 hrs.
 77;Requínoa;3;Preparación
 121;Retiro;3;Preparación
 119;Rinconada;3;Preparación
@@ -272,7 +272,7 @@
 68;Río Claro;3;Preparación
 253;Río Hurtado;3;Preparación
 149;Río Ibáñez;4;Apertura Inicial
-28;Río Negro;2;Transición
+28;Río Negro;1;Cuarentena desde el sábado 23 de enero a las 5:00 hrs.
 288;Río Verde;3;Preparación
 259;Romeral;1;Cuarentena
 314;Saavedra;2;Transición
@@ -290,8 +290,8 @@
 124;San Ignacio;3;Preparación
 111;San Javier;1;Cuarentena
 315;San Joaquín;2;Transición
-181;San José de Maipo;2;Transición
-156;San Juan de la Costa;2;Transición
+181;San José de Maipo;3;Preparación desde el lunes 25 de enero a las 5:00 hrs.
+156;San Juan de la Costa;1;Cuarentena desde el sábado 23 de enero a las 5:00 hrs.
 335;San Miguel;2;Transición
 102;San Nicolás;3;Preparación
 307;San Pablo;2;Transición
@@ -300,7 +300,7 @@
 108;San Pedro de la Paz;1;Cuarentena
 301;San Rafael;3;Preparación
 343;San Ramón;2;Transición
-341;San Rosendo;1;Cuarentena desde el jueves 21 de enero a las 5:00 hrs.
+341;San Rosendo;1;Cuarentena
 326;San Vicente;1;Cuarentena
 211;Santa Bárbara;3;Preparación
 117;Santa Cruz;2;Transición
@@ -310,7 +310,7 @@
 196;Santo Domingo;3;Preparación
 64;Sierra Gorda;3;Preparación
 70;Talagante;3;Preparación
-73;Talca;2;Transición
+73;Talca;1;Cuarentena desde el sábado 23 de enero a las 5:00 hrs.
 43;Talcahuano;1;Cuarentena
 299;Taltal;3;Preparación
 86;Temuco;1;Cuarentena
@@ -319,17 +319,17 @@
 227;Tierra Amarilla;2;Transición
 142;TIL TIL;3;Preparación
 306;Timaukel;3;Preparación
-15;Tirúa;2;Transición
-80;Tocopilla;3;Preparación
+15;Tirúa;1;Cuarentena desde el sábado 23 de enero a las 5:00 hrs.
+80;Tocopilla;2;Transición desde el sábado 23 de enero a las 5:00 hrs.
 318;Toltén;2;Transición
 8205;Tome;1;Cuarentena
 6;Torres del Paine;3;Preparación
 239;Tortel;4;Apertura Inicial
-190;Traiguén;2;Transición
+190;Traiguén;1;Cuarentena desde el sábado 23 de enero a las 5:00 hrs.
 313;Trehuaco;3;Preparación
 311;Tucapel;3;Preparación
 222;Valdivia;1;Cuarentena
-3301;Vallenar;2;Transición desde el jueves 21 de enero a las 5:00 hrs.
+3301;Vallenar;2;Transición
 209;VALPARAÍSO;2;Transición 
 243;Vichuquén;3;Preparación
 16;Victoria;1;Cuarentena
