@@ -1,160 +1,160 @@
 ﻿ID_MINSAL;COMUNA;Paso;ESTADO
 109;Algarrobo;2;Transición
-888;Alhué;3;Preparación
+888;Alhué;2;Transición
 889;Alto Biobío;3;Preparación
 890;Alto del Carmen;3;Preparación
 302;Alto Hospicio;2;Transición
 347;Ancud;2;Transición
 277;Andacollo;2;Transición
-216;Angol;2;Transición
+216;Angol;1;Cuarentena
 2101;Antofagasta;2;Transición
 7;Antuco;3;Preparación
-303;Arauco;2;Transición
+303;Arauco;1;Cuarentena
 198;Arica;2;Transición
 1;Aysén;4;Apertura Inicial
 2101;Buín;2;Transición
 285;Bulnes;2;Transición
-103;Cabildo;3;Preparación
+103;Cabildo;2;Transición
 180;Cabo de Hornos;4;Apertura Inicial
-56;Cabrero;2;Transición
+56;Cabrero;1;Cuarentena desde el jueves 18 de marzo a las 05:00 hrs.
 319;Calama;2;Transición
 208;Calbuco;2;Transición
 10;Caldera;2;Transición
-891;Calera;3;Preparación
+891;Calera;2;Transición
 265;Calera de Tango;2;Transición
-14;Calle Larga;3;Preparación
+14;Calle Larga;2;Transición
 99;Camarones;3;Preparación
 892;Camiña;3;Preparación
-67;Canela;2;Transición
-295;Cañete;2;Transición
+67;Canela;3;Preparación
+295;Cañete;1;Cuarentena
 296;Carahue;1;Cuarentena
 31;Cartagena;2;Transición
 201;Casablanca;2;Transición
 893;Castro;2;Transición
-46;Catemu;2;Transición
-40;Cauquenes;3;Preparación
-270;Cerrillos;2;Transición
-63;Cerro Navia;3;Preparación
-166;Chaitén;2;Transición
-333;Chanco;2;Transición
-324;Chañaral;2;Transición
-894;Chepica;3;Preparación
+46;Catemu;1;Cuarentena
+40;Cauquenes;2;Transición
+270;Cerrillos;1;Cuarentena desde el jueves 18 de marzo a las 05:00 hrs.
+63;Cerro Navia;2;Transición 
+166;Chaitén;3;Preparación
+333;Chanco;1;Cuarentena desde el jueves 18 de marzo a las 05:00 hrs.
+324;Chañaral;1;Cuarentena 
+894;Chepica;2;Transición 
 167;Chiguayante;1;Cuarentena
 11;Chile Chico;4;Apertura Inicial
-132;Chillán;2;Transición
-344;Chillán Viejo;2;Transición
+132;Chillán;1;Cuarentena desde el jueves 18 de marzo a las 05:00 hrs.
+344;Chillán Viejo;1;Cuarentena desde el jueves 18 de marzo a las 05:00 hrs.
 287;Chimbarongo;2;Transición
-168;Cholchol;2;Transición
+168;Cholchol;1;Cuarentena
 342;Chonchi;2;Transición
 125;Cisnes;4;Apertura Inicial
 348;Cobquecura;3;Preparación
-271;Cochamó;3;Preparación
+271;Cochamó;2;Transición desde el jueves 18 de marzo a las 05:00 hrs.
 175;Cochrane;4;Apertura Inicial
 262;Codegua;3;Preparación
-289;Coelemu;2;Transición 
-110;Coihueco;2;Transición
+289;Coelemu;1;Cuarentena
+110;Coihueco;1;Cuarentena
 896;Coinco;2;Transición
-170;Colbún;2;Transición
+170;Colbún;1;Cuarentena
 114;Colchane;3;Preparación
-161;Colina;3;Preparación
+161;Colina;2;Transición
 297;Collipulli;1;Cuarentena
 76;Coltauco;2;Transición
 220;Combarbalá;3;Preparación
-113;Concepción;1;Cuarentena
-29;Conchalí;3;Preparación
-5309;CONCÓN;3;Preparación
+113;Concepción;2;Transición
+29;Conchalí;1;Cuarentena
+5309;CONCÓN;2;Transición
 75;Constitución;2;Transición
 340;Contulmo;1;Cuarentena
 5309;Copiapó;2;Transición
-4103;Coquimbo;2;Transición
+4103;Coquimbo;1;Cuarentena
 157;Coronel;1;Cuarentena
-202;Corral;2;Transición
-11401;Coyhaique;2;Transición
+202;Corral;1;Cuarentena 
+11401;Coyhaique;3;Preparación 
 13;Cunco;1;Cuarentena
-21;Curacautín;3;Preparación
-194;Curacaví;3;Preparación
+21;Curacautín;2;Transición 
+194;Curacaví;2;Transición
 244;Curaco de Vélez;3;Preparación
 284;Curanilahue;2;Transición
-230;Curarrehue;3;Preparación
+230;Curarrehue;2;Transición
 225;Curepto;3;Preparación
-83;Curicó;2;Transición
+83;Curicó;1;Cuarentena 
 276;Dalcahue;2;Transición
-197;Diego de Almagro;2;Transición
+197;Diego de Almagro;3;Preparación
 305;Doñihue;2;Transición
-155;El Bosque;2;Transición
+155;El Bosque;1;Cuarentena desde el jueves 18 de marzo a las 05:00 hrs.
 140;El Carmen;3;Preparación
-279;El Monte;3;Preparación
-12;El Quisco;2;Transición
+279;El Monte;2;Transición
+12;El Quisco;1;Cuarentena
 112;El Tabo;2;Transición
-338;Empedrado;2;Transición
+338;Empedrado;3;Preparación
 185;Ercilla;1;Cuarentena
 89;Estación Central;2;Transición
 45;Florida;2;Transición
 47;Freire;1;Cuarentena
 158;Freirina;2;Transición
 221;Fresia;2;Transición
-328;Frutillar;2;Transición
-193;Futaleufú;3;Preparación
+328;Frutillar;1;Cuarentena
+193;Futaleufú;2;Transición desde el jueves 18 de marzo a las 05:00 hrs.
 229;Futrono;1;Cuarentena
-17;Galvarino;2;Transición
+17;Galvarino;1;Cuarentena desde el jueves 18 de marzo a las 05:00 hrs.
 268;General Lagos;3;Preparación
 269;Gorbea;3;Preparación 
-281;Graneros;2;Transición
+281;Graneros;3;Preparación 
 232;Guaitecas;4;Apertura Inicial
 293;Hijuelas;2;Transición
-238;Hualaihué;1;Cuarentena
-107;Hualañé;2;Transición 
+238;Hualaihué;2;Transición desde el jueves 18 de marzo a las 05:00 hrs.
+107;Hualañé;3;Preparación
 309;Hualpén;1;Cuarentena
 51;Hualqui;1;Cuarentena
-308;Huara;1;Cuarentena
-144;Huasco;2;Transición
-346;Huechuraba;3;Preparación
+308;Huara;2;Transición
+144;Huasco;1;Cuarentena desde el jueves 18 de marzo a las 05:00 hrs.
+346;Huechuraba;2;Transición
 192;Illapel;2;Transición
 3;Independencia;2;Transición
 18;Iquique;2;Transición
-334;Isla de Maipo;2;Transición
+334;Isla de Maipo;1;Cuarentena desde el jueves 18 de marzo a las 05:00 hrs.
 899;Isla de Pascua;4;Apertura Inicial 
 30;Juan Fernández;4;Apertura Inicial
 2;La Cisterna;2;Transición
-87;La Cruz;3;Preparación
+87;La Cruz;2;Transición desde el jueves 18 de marzo a las 05:00 hrs.
 41;La Estrella;2;Transición
-321;La Florida;2;Transición
+321;La Florida;1;Cuarentena desde el jueves 18 de marzo a las 05:00 hrs.
 50;La Granja;2;Transición
-96;La Higuera;3;Preparación
+96;La Higuera;2;Transición
 49;La Ligua;2;Transición
 139;La Pintana;2;Transición
-93;La Reina;3;Preparación
-97;La Serena;2;Transición
+93;La Reina;2;Transición
+97;La Serena;1;Cuarentena
 59;La Unión;1;Cuarentena
-327;Lago Ranco;2;Transición
+327;Lago Ranco;1;Cuarentena
 92;Lago Verde;4;Apertura Inicial
 19;Laguna Blanca;4;Apertura Inicial
 251;Laja;2;Transición 
 254;Lampa;2;Transición
 316;Lanco;1;Cuarentena
 210;Las Cabras;1;Cuarentena 
-78;Las Condes;3;Preparación
+78;Las Condes;2;Transición
 249;Lautaro;2;Transición 
-116;Lebu;2;Transición 
-231;Licantén;1;Cuarentena
-199;Limache;3;Preparación
+116;Lebu;1;Cuarentena
+231;Licantén;2;Transición
+199;Limache;2;Transición desde el jueves 18 de marzo a las 05:00 hrs.
 145;Linares;1;Cuarentena
 53;Litueche;2;Transición
-136;Llanquihue;2;Transición
-159;LLAY LLAY;3;Preparación
-267;Lo Barnechea;3;Preparación
-65;Lo Espejo;3;Preparación
-332;Lo Prado;2;Transición
-337;Lolol;3;Preparación
+136;Llanquihue;2;Transición 
+159;LLAY LLAY;1;Cuarentena 
+267;Lo Barnechea;2;Transición 
+65;Lo Espejo;2;Transición
+332;Lo Prado;1;Cuarentena desde el jueves 18 de marzo a las 05:00 hrs.
+337;Lolol;2;Transición desde el jueves 18 de marzo a las 05:00 hrs.
 325;Loncoche;1;Cuarentena
 129;Longaví;2;Transición
-240;Lonquimay;3;Preparación
+240;Lonquimay;1;Cuarentena desde el jueves 18 de marzo a las 05:00 hrs.
 162;Los Álamos;2;Transición
 226;Los Andes;2;Transición
 200;Los Ángeles;1;Cuarentena
 66;Los Lagos;1;Cuarentena
 204;Los Muermos;2;Transición
-247;Los Sauces;2;Transición
+247;Los Sauces;1;Cuarentena
 264;Los Vilos;2;Transición
 218;Lota;1;Cuarentena
 195;Lumaco;1;Cuarentena
@@ -162,122 +162,122 @@
 106;Macul;2;Transición
 323;Máfil;1;Cuarentena
 246;Maipú;2;Transición
-94;Malloa;3;Preparación
+94;Malloa;2;Transición
 901;Marchihue;3;Preparación
-2103;Maria Elena;2;Transición
-14602;Maria Pinto;3;Preparación
+2103;Maria Elena;3;Preparación
+14602;Maria Pinto;2;Transición
 90;Mariquina;1;Cuarentena
 245;Maule;2;Transición
 154;Maullín;2;Transición
 263;Mejillones;2;Transición
-8;Melipeuco;1;Cuarentena
+8;Melipeuco;2;Transición desde el jueves 18 de marzo a las 05:00 hrs.
 304;Melipilla;2;Transición
-88;Molina;3;Preparación
-147;Monte Patria;3;Preparación
+88;Molina;2;Transición
+147;Monte Patria;1;Cuarentena desde el jueves 18 de marzo a las 05:00 hrs.
 6104;Mostazal;3;Preparación
-26;Mulchén;2;Transición
+26;Mulchén;1;Cuarentena desde el jueves 18 de marzo a las 05:00 hrs.
 214;Nacimiento;3;Preparación
-212;Nancagua;2;Transición
-126;Natales;2;Transición
-291;Navidad;2;Transición
-138;Negrete;3;Preparación
+212;Nancagua;1;Cuarentena
+126;Natales;3;Preparación desde el jueves 18 de marzo a las 05:00 hrs.
+291;Navidad;1;Cuarentena 
+138;Negrete;2;Transición
 213;Ninhue;2;Transición
 5502;Nogales;2;Transición
-174;Nueva Imperial;1;Cuarentena
-177;Ñiquén;3;Preparación 
+174;Nueva Imperial;2;Transición desde el jueves 18 de marzo a las 05:00 hrs.
+177;Ñiquén;1;Cuarentena desde el jueves 18 de marzo a las 05:00 hrs.
 52;Ñuñoa;2;Transición
 234;O'Higgins;4;Apertura Inicial
 91;Olivar;2;Transición
 903;Ollagüe;3;Preparación
 120;Olmué;3;Preparación
-300;Osorno;2;Transición
+300;Osorno;1;Cuarentena
 54;Ovalle;2;Transición
-255;Padre Hurtado;2;Transición
+255;Padre Hurtado;1;Cuarentena desde el jueves 18 de marzo a las 05:00 hrs.
 25;Padre Las Casas;1;Cuarentena
 4106;Paihuano;2;Transición
-24;Paillaco;2;Transición
+24;Paillaco;1;Cuarentena
 252;Paine;2;Transición
-104;Palena;2;Transición
+104;Palena;1;Cuarentena
 282;Palmilla;1;Cuarentena
 130;Panguipulli;1;Cuarentena
 250;Panquehue;3;Preparación
-62;Papudo;2;Transición
-57;Paredones;3;Preparación
-133;Parral;1;Cuarentena
+62;Papudo;3;Preparación 
+57;Paredones;2;Transición
+133;Parral;2;Transición desde el jueves 18 de marzo a las 05:00 hrs.
 164;Pedro Aguirre Cerda;2;Transición
 336;Pelarco;2;Transición 
 152;Pelluhue;2;Transición
 320;Pemuco;3;Preparación
 184;Pencahue;1;Cuarentena
 85;Penco;1;Cuarentena
-14504;Peñaflor;3;Preparación
+14504;Peñaflor;2;Transición
 153;Peñalolén;2;Transición
 191;Peralillo;2;Transición
-322;Perquenco;3;Preparación
+322;Perquenco;1;Cuarentena 
 131;Petorca;2;Transición
-233;Peumo;2;Transición
+233;Peumo;1;Cuarentena desde el jueves 18 de marzo a las 05:00 hrs.
 55;Pica;1;Cuarentena
-115;Pichidegua;2;Transición
+115;Pichidegua;1;Cuarentena desde el jueves 18 de marzo a las 05:00 hrs.
 4;Pichilemu;1;Cuarentena
 118;Pinto;2;Transición
 137;Pirque;2;Transición
-169;Pitrufquén;2;Transición
+169;Pitrufquén;1;Cuarentena
 101;Placilla;2;Transición
-237;Portezuelo;2;Transición
+237;Portezuelo;3;Preparación
 127;Porvenir;4;Apertura Inicial
 171;Pozo Almonte;2;Transición
 292;Primavera;4;Apertura Inicial 
-5;Providencia;3;Preparación
-72;Puchuncaví;3;Preparación
+5;Providencia;2;Transición
+72;Puchuncaví;2;Transición desde el jueves 18 de marzo a las 05:00 hrs.
 36;Pucón;3;Preparación
 242;Pudahuel;2;Transición
 82;Puente Alto;2;Transición
 100;Puerto Montt;2;Transición
-261;Puerto Octay;2;Transición
+261;Puerto Octay;1;Cuarentena desde el jueves 18 de marzo a las 05:00 hrs.
 258;Puerto Varas;2;Transición
 266;Pumanque;3;Preparación
-135;Punitaqui;3;Preparación
-27;Punta Arenas;2;Transición
-290;Puqueldón;3;Preparación
-274;Purén;1;Cuarentena
+135;Punitaqui;2;Transición
+27;Punta Arenas;3;Preparación desde el jueves 18 de marzo a las 05:00 hrs.
+290;Puqueldón;2;Transición desde el jueves 18 de marzo a las 05:00 hrs.
+274;Purén;2;Transición desde el jueves 18 de marzo a las 05:00 hrs.
 217;Purranque;2;Transición
 260;Putaendo;3;Preparación
 61;Putre;3;Preparación
 294;Puyehue;2;Transición
 256;Queilén;2;Transición 
 272;Quellón;3;Preparación 
-273;Quemchi;2;Transición
+273;Quemchi;1;Cuarentena
 278;Quilaco;3;Preparación
-215;Quilicura;3;Preparación
-79;Quilleco;2;Transición
-206;Quillón;3;Preparación
-182;Quillota;2;Transición
+215;Quilicura;2;Transición
+79;Quilleco;1;Cuarentena desde el jueves 18 de marzo a las 05:00 hrs.
+206;Quillón;2;Transición 
+182;Quillota;1;Cuarentena
 48;Quilpué;2;Transición
 38;Quinchao;2;Transición
-275;Quinta de Tilcoco;3;Preparación
-123;Quinta Normal;2;Transición
+275;Quinta de Tilcoco;2;Transición
+123;Quinta Normal;1;Cuarentena desde el jueves 18 de marzo a las 05:00 hrs.
 81;Quintero;2;Transición
 35;Quirihue;3;Preparación
 6101;Rancagua;2;Transición
 172;Ránquil;2;Transición
-105;Rauco;3;Preparación 
+105;Rauco;2;Transición
 187;Recoleta;2;Transición
 143;Renaico;1;Cuarentena
-329;Renca;3;Preparación
+329;Renca;1;Cuarentena desde el jueves 18 de marzo a las 05:00 hrs.
 219;Rengo;1;Cuarentena
-77;Requínoa;3;Preparación
+77;Requínoa;2;Transición
 121;Retiro;2;Transición
-119;Rinconada;2;Transición
-165;Río Bueno;2;Transición
-68;Río Claro;2;Transición
+119;Rinconada;3;Preparación desde el jueves 18 de marzo a las 05:00 hrs.
+165;Río Bueno;1;Cuarentena
+68;Río Claro;3;Preparación desde el jueves 18 de marzo a las 05:00 hrs.
 253;Río Hurtado;3;Preparación
 149;Río Ibáñez;4;Apertura Inicial
 28;Río Negro;2;Transición
 288;Río Verde;4;Apertura Inicial 
-259;Romeral;3;Preparación
+259;Romeral;2;Transición
 314;Saavedra;1;Cuarentena
 141;Sagrada Familia;3;Preparación
-236;Salamanca;2;Transición
+236;Salamanca;1;Cuarentena
 148;San Antonio;1;Cuarentena
 32;San Bernardo;2;Transición
 42;San Carlos;2;Transición
@@ -285,62 +285,62 @@
 176;San Esteban;3;Preparación
 151;San Fabián;2;Transición
 69;San Felipe;2;Transición
-178;San Fernando;2;Transición
+178;San Fernando;1;Cuarentena 
 60;San Gregorio;4;Apertura Inicial
 124;San Ignacio;2;Transición
 111;San Javier;2;Transición
-315;San Joaquín;3;Preparación
+315;San Joaquín;2;Transición 
 181;San José de Maipo;2;Transición 
-156;San Juan de la Costa;2;Transición
-335;San Miguel;2;Transición
+156;San Juan de la Costa;1;Cuarentena
+335;San Miguel;1;Cuarentena desde el jueves 18 de marzo a las 05:00 hrs.
 102;San Nicolás;2;Transición
-307;San Pablo;2;Transición
+307;San Pablo;1;Cuarentena desde el jueves 18 de marzo a las 05:00 hrs.
 95;San Pedro;2;Transición
 257;San Pedro de Atacama;2;Transición
 108;San Pedro de la Paz;1;Cuarentena
-301;San Rafael;2;Transición
+301;San Rafael;1;Cuarentena
 343;San Ramón;2;Transición
 341;San Rosendo;2;Transición
 326;San Vicente;2;Transición
-211;Santa Bárbara;3;Preparación
-117;Santa Cruz;3;Preparación
+211;Santa Bárbara;2;Transición desde el jueves 18 de marzo a las 05:00 hrs.
+117;Santa Cruz;2;Transición
 205;Santa Juana;3;Preparación
 905;Santa Maria;3;Preparación
 183;Santiago;2;Transición
-196;Santo Domingo;3;Preparación
+196;Santo Domingo;2;Transición
 64;Sierra Gorda;3;Preparación
-70;Talagante;3;Preparación
-73;Talca;2;Transición
+70;Talagante;2;Transición
+73;Talca;1;Cuarentena desde el jueves 18 de marzo a las 05:00 hrs.
 43;Talcahuano;1;Cuarentena
-299;Taltal;2;Transición
+299;Taltal;1;Cuarentena desde el jueves 18 de marzo a las 05:00 hrs.
 86;Temuco;1;Cuarentena
-189;Teno;3;Preparación
+189;Teno;2;Transición 
 9;Teodoro Schmidt;2;Transición
 227;Tierra Amarilla;2;Transición
-142;TIL TIL;3;Preparación
+142;TIL TIL;2;Transición
 306;Timaukel;4;Apertura Inicial
 15;Tirúa;1;Cuarentena
-80;Tocopilla;1;Cuarentena
+80;Tocopilla;2;Transición
 318;Toltén;1;Cuarentena
-8205;Tome;2;Transición
+8205;Tome;1;Cuarentena
 6;Torres del Paine;4;Apertura Inicial
 239;Tortel;4;Apertura Inicial
 190;Traiguén;1;Cuarentena
-313;Trehuaco;2;Transición
-311;Tucapel;3;Preparación
+313;Trehuaco;1;Cuarentena desde el jueves 18 de marzo a las 05:00 hrs.
+311;Tucapel;1;Cuarentena desde el jueves 18 de marzo a las 05:00 hrs.
 222;Valdivia;1;Cuarentena 
 3301;Vallenar;3;Preparación
-209;VALPARAÍSO;2;Transición 
+209;VALPARAÍSO;1;Cuarentena
 243;Vichuquén;2;Transición
 16;Victoria;2;Transición
-34;Vicuña;2;Transición
+34;Vicuña;1;Cuarentena
 146;Vilcún;1;Cuarentena
 224;Villa Alegre;2;Transición
 23;Villa Alemana;2;Transición
-228;Villarrica;2;Transición 
+228;Villarrica;1;Cuarentena
 163;Viña del Mar;2;Transición 
-39;Vitacura;3;Preparación
+39;Vitacura;2;Transición
 241;Yerbas Buenas;2;Transición
-37;Yumbel;3;Preparación
-160;Yungay;3;Preparación
+37;Yumbel;2;Transición
+160;Yungay;2;Transición desde el jueves 18 de marzo a las 05:00 hrs.
 207;Zapallar;3;Preparación
